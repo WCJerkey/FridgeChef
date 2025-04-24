@@ -1,0 +1,8 @@
+To use this application please make sure you have python installed on your system.
+Also run the command: pip instal -r requirements.txt
+in your terminal or console.
+Then run the main.py file.
+
+NOTE:
+If pip instal -r requirements.txt doesn't work
+try: pip3 instal -r requirements.txt
